@@ -56,7 +56,7 @@
         "quickstart",
         "development",
         "Recurring routes",
-        "Janani"
+        "Test/Janani"
       ]
     },
     {
@@ -70,7 +70,7 @@
         "essentials/reusable-snippets"
       ]
     },
-    {
+        {
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
