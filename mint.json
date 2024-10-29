@@ -22,7 +22,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Sign up",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
